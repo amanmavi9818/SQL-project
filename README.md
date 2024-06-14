@@ -6,3 +6,6 @@ By understanding the popularity of a particular genre or an artist or understand
 and reach to it’s customers and genrate profit using data driven insights. 
 
 All the files are uploaded .
+
+
+![Schema](https://github.com/amanmavi9818/SQL-project/assets/130988105/5ab5ca3a-9e47-4893-a7a4-c58c02c18c48)
